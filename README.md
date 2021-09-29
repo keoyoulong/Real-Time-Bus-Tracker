@@ -2,7 +2,6 @@
 Showing how many bus stop locations from MIT to HARVARD
 
 **Project Title:** Real-Time-Bus-Tracker
-
 <br>
 <img src="map.png" width='300'/>
 <br>
